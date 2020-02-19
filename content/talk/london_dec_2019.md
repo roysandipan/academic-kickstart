@@ -13,8 +13,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "12th International Conference of the ERCIMWG on Computational and Methodological
-Statistics"
+event = "12th International Conference of the ERCIMWG on Computational and Methodological Statistics"
 event_url = ""
 
 # Location of event.
