@@ -74,8 +74,8 @@ enableGitInfo = false
   avatar = "myphoto.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "S.Roy@bath.ac.uk"
   address = "6W 1.6, Department of Mathematical Sciences, University of Bath, Claverton Down, Bath, United Kingdom"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
+  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "+44(0)1225 38 5421"
   skype = "royrupan"
   telegram = ""
 
@@ -238,7 +238,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = " "
 
   [[params.social]]
     icon = "google-scholar"
@@ -275,20 +275,20 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+  #name = "Posts"
+  #url = "#posts"
+  #weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+  #name = "Projects"
+  #url = "#projects"
+  #weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+  #name = "Teaching"
+  #url = "#teaching"
+  #weight = 5
 
 [[menu.main]]
   name = "Contact"
